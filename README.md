@@ -1,4 +1,4 @@
-### Tool to gather the information using JSON-RPC client to interact with the Ethereum blockchain
+### Gathers information using JSON-RPC client to interact with the Ethereum blockchain
 
 - Resolves the Ethereum address `example.eth`
 - The latest block number
